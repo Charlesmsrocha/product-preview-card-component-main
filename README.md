@@ -1,5 +1,8 @@
 # Frontend Mentor - Product preview card component
 
+Challenge retrieved from the Website Frontend Mentor.
+Level 1.
+
 <!-- ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
